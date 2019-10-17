@@ -1,0 +1,14 @@
+{
+  "name": "@nehaakram12/tiny",
+  "version": "1.0.1",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "nehaakram12/tiny",
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "nehaakram12"
+  ]
+}
